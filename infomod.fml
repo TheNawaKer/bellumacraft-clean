@@ -1,0 +1,8 @@
+#Ceci est la liste des fichie original de minecraft modifié:
+
+package common:
+
+- ItemArmor : "ajout des armures modés, ajout de la fonction texture"
+- Item : "modification des declaration des armures en rapport avec les modif d'ItemArmor"
+
+package net.minecraft.src :

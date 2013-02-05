@@ -1,0 +1,22 @@
+[
+{
+  "modid": "Mine",
+  "name": "Bellumacraft",
+  "description": "Mod crée pour le serveur Bellumacraft.
+  ajout de nombreux nouveaux items tel que armures, bieres, ...",
+  "version": "@VERSION@",
+  "mcversion": "1.3.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": [
+    "legendaire45"
+  ],
+  "credits": "programmée par legendaire45, idée proposé par la team RetroGame",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
